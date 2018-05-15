@@ -1,5 +1,5 @@
 create a new repository on the command line
-echo "# doc" >> README.md
+echo "# doc" >> README.md   
 git init
 git add README.md
 git commit -m "first commit"
